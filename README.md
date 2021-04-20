@@ -1,0 +1,2 @@
+# myJenkinsPipe
+Private Jenkins scripts
